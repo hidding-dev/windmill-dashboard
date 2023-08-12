@@ -2,8 +2,7 @@
 
 A multi theme, completely accessible, with components and pages examples, ready for production dashboard.
 
-🧪 [See it live](https://windmillui.com/dashboard-html)
-
+🧪 [See it live](https://windmillui.com/dashboard-html) [github site](https://hidding-dev/github.io/windmill-dashboard/src/index.html)
 - 🦮 Thoroughly accessible
 - 🌗 Light and dark themes
 - 💅 Styled with Tailwind CSS
